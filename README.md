@@ -41,6 +41,7 @@
 📧 Email: manilkamokshan@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/manilka-mokshan
+
 ## 📊 GitHub Stats
 
 ![Manilka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manilkamokshan-commits&show_icons=true&theme=github_dark)
